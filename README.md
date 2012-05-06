@@ -5,9 +5,11 @@ In-progress tutorials for Bootstrap, starting with a BS101 guide for &quot;getti
 
 ## What's included
 
-* BS 101: Getting started with Bootstrap
+* [BS 101: Getting started with Bootstrap](https://github.com/markdotto/bootstrap-university/blob/master/bs-101.md)
 
 ## What's next
+
+Though not final, this is the gist of what's next:
 
 * BS 102: Scaffolding, the grid, and layouts
 * BS 103: Javascript in Bootstrap
@@ -15,8 +17,8 @@ In-progress tutorials for Bootstrap, starting with a BS101 guide for &quot;getti
 
 ## Ideas?
 
-This is all rough and a huge work in progress for us. If you have feedback, open an issue, submit a pull request, or mention us.
+This is all rough and a huge work in progress for us. If you have feedback, open an issue, submit a pull request, or mention us [on Twitter](http://twitter.com/twbootstrap).
 
------
 
-Thanks!
+<3,
+[@mdo](http://twitter.com/mdo)
