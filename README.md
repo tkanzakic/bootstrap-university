@@ -1,7 +1,7 @@
 Bootstrap University
 ====================
 
-In-progress tutorials for Bootstrap, starting with a BS101 guide for &quot;getting started&quot;, open for community feedback.
+In-progress tutorials for [Twitter Bootstrap](http://getbootstrap.com), starting with a BS101 guide for &quot;getting started&quot;, open for community feedback.
 
 ## What's included
 
